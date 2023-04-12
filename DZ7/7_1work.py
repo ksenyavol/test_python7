@@ -22,6 +22,7 @@ class TrafficLight:
             sleep(value)
             print(key)
 
+            
 traf = TrafficLight(color={
     "Красный": 7,
     "Желтый": 2,
